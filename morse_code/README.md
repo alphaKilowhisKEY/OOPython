@@ -17,12 +17,12 @@ The project uses the `pydub` library to handle audio generation and conversion.
 
 ## Installation
 
-$ pip install pydub
-$ ffmpeg -version
-$ sudo apt update
-$ sudo apt install ffmpeg
+- $ pip install pydub
+- $ ffmpeg -version
+- $ sudo apt update
+- $ sudo apt install ffmpeg
     
 ## Usage
 1. Input the text to translate
 2. Give a file name
-$ python3 main.py
+3. $ python3 main.py
