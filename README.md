@@ -19,3 +19,4 @@ These projects serve as exercises to practice Python programming concepts such a
 4. **[QUIZ Project]()**: a simple quiz application where users can answer True/False questions. 
 5. **[Snake Game]()**: implements the classic Snake Game using the Turtle module for graphics.
 6. **[Turtle Crossing]()**: implements a game where the player navigates a turtle across a busy road, avoiding oncoming cars. 
+7. **[Morse Code Audio Generator]()**: converts text into Morse code audio signals.
